@@ -16,7 +16,7 @@ This is an AVR microcontroller based security system application that uses a pas
 
 ## **Proteus**
 
-![simulation](https://github.com/Esmtra/Door-Locker-MT-embedded-diploma/blob/main/img/simulation.png "simulation")
+![simulation](https://github.com/Esmtra/Door_Locker_MT_Embedded_diploma/blob/main/img/simulation.png "simulation")
 
 ## **Driveers**
 1. Input/Output:
